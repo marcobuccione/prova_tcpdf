@@ -7,7 +7,7 @@
 // Description : Example 001 for TCPDF class
 //               Default Header and Footer
 //
-// Author: Nicola Asuni
+// Author: Nicola Asuni and Marco Buccione
 //
 // (c) Copyright:
 //               Nicola Asuni
